@@ -1,0 +1,14 @@
+[Plymouth Theme]
+Name=@THEMENAME@
+Description=@THEMEDESC@
+ModuleName=two-step
+
+[two-step]
+ImageDir=/usr/share/plymouth/themes/bbxnet
+HorizontalAlignment=.5
+VerticalAlignment=.5
+Transition=none
+TransitionDuration=0.0
+BackgroundStartColor=0x2f2f2f
+BackgroundEndColor=0x2f2f2f
+
